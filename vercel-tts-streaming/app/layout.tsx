@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Chatterbox TTS Streaming',
   description: 'Low-latency TTS streaming service for voicebots',
